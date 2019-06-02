@@ -1,4 +1,4 @@
-# open-links-new-tab-pilab
+# target='_blank' - Pi Lab
 Bludit Plugin - Set all external links to open in new tabs
 
 This plugin was built for [Pi Lab](https://pilab.dev)
